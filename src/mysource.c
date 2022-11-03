@@ -9,3 +9,7 @@ void foo()
 void goo(){
     printf("hello goo\n");
 }
+
+void joo(){
+printf("hello joo\n");
+}

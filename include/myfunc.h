@@ -3,5 +3,5 @@
 
 void goo();
 void foo();
-
+void joo();
 #endif
